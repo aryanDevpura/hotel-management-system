@@ -1,0 +1,609 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.hotel:hotel-management-system >------------------
+[INFO] Building Hotel Management System 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] 6 problems were encountered while building the effective model for org.openjfx:javafx-controls:jar:21.0.2 during dependency collection step for project (use -X to see details)
+[INFO] 
+[INFO] --- resources:3.4.0:resources (default-resources) @ hotel-management-system ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ hotel-management-system ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 18 source files with javac [debug target 21 module-path] to target\classes
+[INFO] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java: C:\Users\Aryan Devpura\.gemini\antigravity\scratch\HotelManagementSystem\src\main\java\com\hotel\view\CustomerDashboardView.java uses or overrides a deprecated API.
+[INFO] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java: Recompile with -Xlint:deprecation for details.
+[INFO] -------------------------------------------------------------
+[WARNING] COMPILATION WARNING : 
+[INFO] -------------------------------------------------------------
+[WARNING] location of system modules is not set in conjunction with -source 21
+  not setting the location of system modules may lead to class files that cannot run on JDK 21
+    --release 21 is recommended instead of -source 21 -target 21 because it sets the location of system modules automatically
+[INFO] 1 warning
+[INFO] -------------------------------------------------------------
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[28,13] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[29,13] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[30,13] cannot find symbol
+  symbol:   class ComboBox
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[31,13] cannot find symbol
+  symbol:   class ComboBox
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[32,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[33,13] cannot find symbol
+  symbol:   class TextArea
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[42,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[43,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[44,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[122,34] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[122,55] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[248,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[249,13] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[430,13] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[537,13] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[598,48] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[652,33] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[65,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[65,34] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[68,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[68,30] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[69,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[69,34] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[70,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[70,34] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[71,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[71,35] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[73,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[74,14] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[123,14] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[138,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[138,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[153,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[153,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[156,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[156,33] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[163,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[163,35] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[169,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[169,33] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[188,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[188,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[200,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[200,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[208,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[208,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[211,26] cannot find symbol
+  symbol:   class ComboBox
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[219,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[219,31] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[222,27] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[225,31] cannot find symbol
+  symbol:   class TextArea
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[233,32] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[257,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[257,32] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[268,31] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[272,35] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[276,34] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[280,9] cannot find symbol
+  symbol:   class Separator
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[280,29] cannot find symbol
+  symbol:   class Separator
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[283,34] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[287,33] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[353,116] cannot find symbol
+  symbol:   variable STANDARD
+  location: class com.hotel.model.RoomType
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[355,116] cannot find symbol
+  symbol:   variable SUITE
+  location: class com.hotel.model.RoomType
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[375,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[375,31] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[380,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[380,34] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[382,9] cannot find symbol
+  symbol:   class TextField
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[382,38] cannot find symbol
+  symbol:   class TextField
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[387,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[387,31] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[389,9] cannot find symbol
+  symbol:   class ComboBox
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[389,44] cannot find symbol
+  symbol:   class ComboBox
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[396,9] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[396,32] cannot find symbol
+  symbol:   class Button
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[405,36] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[411,36] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[415,32] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[431,9] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[431,37] cannot find symbol
+  symbol:   class TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[434,9] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[434,49] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[438,9] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[438,51] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[442,9] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[442,50] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[446,9] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[446,51] cannot find symbol
+  symbol:   class TableColumn
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[449,44] cannot find symbol
+  symbol:   class TableCell
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[450,13] method does not override or implement a method from a supertype
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[452,22] cannot find symbol
+  symbol: method updateItem(java.lang.Boolean,boolean)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[454,21] cannot find symbol
+  symbol: method setText(<nulltype>)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[455,21] cannot find symbol
+  symbol: method setStyle(java.lang.String)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[457,21] cannot find symbol
+  symbol: method setText(item ? "Av[...]pied")
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[458,21] cannot find symbol
+  symbol: method setStyle(item ? "-f[...]old;")
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[465,34] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[466,37] cannot find symbol
+  symbol:   variable TableView
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[476,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[476,31] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[480,9] cannot find symbol
+  symbol:   class Label
+  location: class com.hotel.view.StaffDashboardView
+[INFO] 100 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.723 s
+[INFO] Finished at: 2026-04-08T17:27:09+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project hotel-management-system: Compilation failure: Compilation failure: 
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[28,13] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[29,13] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[30,13] cannot find symbol
+[ERROR]   symbol:   class ComboBox
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[31,13] cannot find symbol
+[ERROR]   symbol:   class ComboBox
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[32,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[33,13] cannot find symbol
+[ERROR]   symbol:   class TextArea
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[42,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[43,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[44,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[122,34] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[122,55] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[248,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[249,13] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[430,13] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[537,13] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[598,48] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[652,33] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[65,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[65,34] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[68,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[68,30] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[69,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[69,34] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[70,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[70,34] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[71,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[71,35] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[73,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[74,14] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[123,14] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[138,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[138,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[153,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[153,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[156,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[156,33] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[163,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[163,35] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[169,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[169,33] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[188,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[188,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[200,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[200,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[208,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[208,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[211,26] cannot find symbol
+[ERROR]   symbol:   class ComboBox
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[219,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[219,31] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[222,27] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[225,31] cannot find symbol
+[ERROR]   symbol:   class TextArea
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[233,32] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[257,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[257,32] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[268,31] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[272,35] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[276,34] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[280,9] cannot find symbol
+[ERROR]   symbol:   class Separator
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[280,29] cannot find symbol
+[ERROR]   symbol:   class Separator
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[283,34] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[287,33] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[353,116] cannot find symbol
+[ERROR]   symbol:   variable STANDARD
+[ERROR]   location: class com.hotel.model.RoomType
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[355,116] cannot find symbol
+[ERROR]   symbol:   variable SUITE
+[ERROR]   location: class com.hotel.model.RoomType
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[375,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[375,31] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[380,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[380,34] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[382,9] cannot find symbol
+[ERROR]   symbol:   class TextField
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[382,38] cannot find symbol
+[ERROR]   symbol:   class TextField
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[387,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[387,31] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[389,9] cannot find symbol
+[ERROR]   symbol:   class ComboBox
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[389,44] cannot find symbol
+[ERROR]   symbol:   class ComboBox
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[396,9] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[396,32] cannot find symbol
+[ERROR]   symbol:   class Button
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[405,36] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[411,36] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[415,32] package Alert does not exist
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[431,9] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[431,37] cannot find symbol
+[ERROR]   symbol:   class TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[434,9] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[434,49] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[438,9] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[438,51] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[442,9] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[442,50] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[446,9] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[446,51] cannot find symbol
+[ERROR]   symbol:   class TableColumn
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[449,44] cannot find symbol
+[ERROR]   symbol:   class TableCell
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[450,13] method does not override or implement a method from a supertype
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[452,22] cannot find symbol
+[ERROR]   symbol: method updateItem(java.lang.Boolean,boolean)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[454,21] cannot find symbol
+[ERROR]   symbol: method setText(<nulltype>)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[455,21] cannot find symbol
+[ERROR]   symbol: method setStyle(java.lang.String)
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[457,21] cannot find symbol
+[ERROR]   symbol: method setText(item ? "Av[...]pied")
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[458,21] cannot find symbol
+[ERROR]   symbol: method setStyle(item ? "-f[...]old;")
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[465,34] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[466,37] cannot find symbol
+[ERROR]   symbol:   variable TableView
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[476,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[476,31] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java:[480,9] cannot find symbol
+[ERROR]   symbol:   class Label
+[ERROR]   location: class com.hotel.view.StaffDashboardView
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException

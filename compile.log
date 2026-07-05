@@ -1,0 +1,52 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.hotel:hotel-management-system >------------------
+[INFO] Building Hotel Management System 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] 6 problems were encountered while building the effective model for org.openjfx:javafx-controls:jar:21.0.2 during dependency collection step for project (use -X to see details)
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ hotel-management-system ---
+[INFO] Deleting C:\Users\Aryan Devpura\.gemini\antigravity\scratch\HotelManagementSystem\target
+[INFO] 
+[INFO] --- resources:3.4.0:resources (default-resources) @ hotel-management-system ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ hotel-management-system ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 18 source files with javac [debug target 21 module-path] to target\classes
+[INFO] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java: Some input files use or override a deprecated API.
+[INFO] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/StaffDashboardView.java: Recompile with -Xlint:deprecation for details.
+[INFO] -------------------------------------------------------------
+[WARNING] COMPILATION WARNING : 
+[INFO] -------------------------------------------------------------
+[WARNING] location of system modules is not set in conjunction with -source 21
+  not setting the location of system modules may lead to class files that cannot run on JDK 21
+    --release 21 is recommended instead of -source 21 -target 21 because it sets the location of system modules automatically
+[INFO] 1 warning
+[INFO] -------------------------------------------------------------
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[392,66] local variables referenced from a lambda expression must be final or effectively final
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[399,43] local variables referenced from a lambda expression must be final or effectively final
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[401,67] local variables referenced from a lambda expression must be final or effectively final
+[INFO] 3 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.420 s
+[INFO] Finished at: 2026-04-08T03:44:31+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project hotel-management-system: Compilation failure: Compilation failure: 
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[392,66] local variables referenced from a lambda expression must be final or effectively final
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[399,43] local variables referenced from a lambda expression must be final or effectively final
+[ERROR] /C:/Users/Aryan Devpura/.gemini/antigravity/scratch/HotelManagementSystem/src/main/java/com/hotel/view/CustomerDashboardView.java:[401,67] local variables referenced from a lambda expression must be final or effectively final
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
